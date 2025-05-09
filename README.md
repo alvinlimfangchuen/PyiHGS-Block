@@ -41,15 +41,15 @@ Please ensure you adhere to the dataset's usage guidelines and cite it appropria
 
 If you use this implementation in your research, please cite the original paper:
 
-```
+```bibtex
 @article{lim2024inair,
-    title={Revolutionizing Signature Recognition: A Contactless Method with Convolutional Recurrent Neural Networks},
-    author={Alvin Fang Chuen Lim, Wee How Khoh, Ying Han Pang, Hui Yen Yap},
-    doi = {(https://doi.org/10.14716/ijtech.v15i4.6744)},
-    journal={International Journal of Technology},
-    volume={15(4)},
-    pages={pp. 1102-1117},
-    year={2024}
+  title={Revolutionizing Signature Recognition: A Contactless Method with Convolutional Recurrent Neural Networks},
+  author={Alvin Fang Chuen Lim, Wee How Khoh, Ying Han Pang, Hui Yen Yap},
+  doi = {(https://doi.org/10.14716/ijtech.v15i4.6744)},
+  journal={International Journal of Technology},
+  volume={15(4)},
+  pages={pp. 1102-1117},
+  year={2024}
 }
 ```
 
