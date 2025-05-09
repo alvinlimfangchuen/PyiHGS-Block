@@ -17,7 +17,7 @@ The original algorithm was developed in MATLAB 2021a without requiring any first
 To clone this repository and start exploring the Python implementation of this image processing algorithm on your local machine:
 
 ```bash
-git clone https://github.com/alvinlimfangchuen/iHGS-MHI-BLOCKS.git
+git clone https://github.com/alvinlimfangchuen/PyiHGS-Block.git
 ```
 
 ## Requirements
