@@ -23,7 +23,11 @@ git clone https://github.com/alvinlimfangchuen/PyiHGS-Block.git
 ## Requirements
 
 - Python 3.6+
-- Dependencies: [list Python dependencies here]
+- Dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - os (standard library)
 
 ## Dataset
 
